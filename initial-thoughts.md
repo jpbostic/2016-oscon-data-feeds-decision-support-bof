@@ -40,3 +40,19 @@
 ## Scientific databases
 ### Medicine
 ### Historical records
+
+## Volunteer / Citizen-provided information
+
+### APRS - Amateur Packet Radio Service
+* Location tracking for storm spotters
+* Automated stations can report weather, environmental, and other information
+
+### CoCoRaHS - Community Collaborative Rain, Hail and Snow Network
+[Main site](http://www.cocorahs.org/)
+
+### Blitzortung - a worldwide collaborative lightning detection network
+[Main site](http://blitzortung.org/)
+
+### DNS Blocklists and other Internet community security efforts
+
+

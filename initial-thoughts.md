@@ -56,3 +56,12 @@
 ### DNS Blocklists and other Internet community security efforts
 
 
+# Contribs
+
+* github/caesar/awesome-public-datasets
+* Edward Tufte - data visualization books (the "Bible" of data viz books)
+# subreddit "Data is Beautiful"
+# D3 examples
+
+
+
